@@ -1,13 +1,10 @@
 package pl.javastart.exercise.mockito;
-
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
-
 import java.util.HashMap;
 import java.util.Map;
-
 import static org.mockito.Mockito.when;
 
 public class ShopControllerTest {
